@@ -1,0 +1,25 @@
+# Secrets
+.env
+**/.env
+
+# Build outputs
+mobile_app/build/
+mobile_app/.dart_tool/
+docs/assets/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flutter generated
+mobile_app/.flutter-plugins-dependencies
+mobile_app/windows/flutter/ephemeral/
